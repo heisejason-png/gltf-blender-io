@@ -94,3 +94,4 @@ Some Technical documentation
 ----------------------------
 
 Want to fix some bugs or add some enhancement? You will find some technical overview of this addon [here](Technical.md)
+Created by Jason Scott Heise
